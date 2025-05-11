@@ -1,5 +1,10 @@
 # 🧠 Chat de Recuperación (LLaMA 3 + Flask)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Flask](https://img.shields.io/badge/Flask-Web%20Framework-green)
+![LLaMA](https://img.shields.io/badge/Model-LLaMA%203-orange)
+
+
 Este es un chatbot local que utiliza el modelo **LLaMA 3** a través de [Ollama](https://ollama.com/) y una interfaz web construida con **Flask**. Permite tener conversaciones en español o inglés de manera local, sin enviar datos a la nube.
 
 ---
